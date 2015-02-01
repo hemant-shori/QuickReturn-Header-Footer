@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">QuickReturn RecyclerView</string>
+    <string name="title_activity_main">QuickReturn Test</string>
+    <string name="home_fragment">Home</string>
+    <string name="animated_header_fragment">Animation Header</string>
+    <string name="animated_footer_fragment">Animated Footer</string>
+
+</resources>

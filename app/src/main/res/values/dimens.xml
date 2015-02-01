@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="header_height">60dp</dimen>
+    <dimen name="header_margin_top">15dp</dimen>
+    <dimen name="footer_height">60dp</dimen>
+</resources>
